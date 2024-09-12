@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+HOW TO RUN APP
+1.todo-ng
+2.ng serve
+3.http://localhost:4200/
+
+for backend
+1.npm install json-server
+2. npm run server
+3.http://localhost:3000/todos
